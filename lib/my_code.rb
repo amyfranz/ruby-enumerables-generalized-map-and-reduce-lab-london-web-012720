@@ -1,3 +1,2 @@
-def my_map(num_array){|n| n * n}
- return num_array
+def my_map(num_array)
 end
